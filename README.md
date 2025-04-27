@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+🦦 I am a PhD student in the Molecular Genetics and Genomics program at Washington University in St Louis! 🦦
 <!--
 **jyao36/jyao36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
